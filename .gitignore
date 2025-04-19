@@ -1,0 +1,19 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+*.env
